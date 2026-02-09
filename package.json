@@ -1,19 +1,19 @@
 {
   "name": "notion-next",
   "version": "4.9.2",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "homepage": "https://github.com/liveover-yu",
   "license": "MIT",
   "engines": {
-    "node": ">=20"
+    "node": "18.x"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/liveover-yu/NotionNext.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "cty",
+    "email": "2922440937@qq.com",
+    "url": "https://github.com/liveover-yu"
   },
   "scripts": {
     "dev": "next dev",
